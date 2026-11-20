@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env.local
+.env.*.local
+*.log
+backup/
+
+# Previous project archive and documents
+Flow.zip
+*.zip
+*.docx
+~$*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
